@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaxizuishuai的GitHub统计数据&show_icons=true&theme=tokyonight)
+![xiaxizuishuai的GitHub统计数据](https://github-readme-stats.vercel.app/api?username=xiaxizuishuai的GitHub统计数据&show_icons=true&theme=tokyonight)
 <!--
 **xiaxizuishuai/xiaxizuishuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
